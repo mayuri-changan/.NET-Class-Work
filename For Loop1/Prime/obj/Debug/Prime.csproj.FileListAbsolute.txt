@@ -1,0 +1,8 @@
+C:\Users\mayur\Desktop\.net project\Prime\bin\Debug\Prime.exe.config
+C:\Users\mayur\Desktop\.net project\Prime\bin\Debug\Prime.exe
+C:\Users\mayur\Desktop\.net project\Prime\bin\Debug\Prime.pdb
+C:\Users\mayur\Desktop\.net project\Prime\obj\Debug\Prime.csproj.AssemblyReference.cache
+C:\Users\mayur\Desktop\.net project\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.net project\Prime\obj\Debug\Prime.exe
+C:\Users\mayur\Desktop\.net project\Prime\obj\Debug\Prime.pdb
+C:\Users\mayur\Desktop\.net project\Prime\obj\Debug\Prime.exe.config
