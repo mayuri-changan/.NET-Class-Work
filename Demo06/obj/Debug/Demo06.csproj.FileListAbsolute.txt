@@ -1,0 +1,15 @@
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\bin\Debug\Demo06.exe.config
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\bin\Debug\Demo06.exe
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\bin\Debug\Demo06.pdb
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\obj\Debug\Demo06.csproj.AssemblyReference.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\obj\Debug\Demo06.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\obj\Debug\Demo06.exe
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\obj\Debug\Demo06.pdb
+C:\Users\mayur\Desktop\.net project\CSharp\Demo06\obj\Debug\Demo06.exe.config
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo06\bin\Debug\Demo06.exe.config
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo06\bin\Debug\Demo06.exe
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo06\bin\Debug\Demo06.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo06\obj\Debug\Demo06.csproj.AssemblyReference.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo06\obj\Debug\Demo06.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo06\obj\Debug\Demo06.exe
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo06\obj\Debug\Demo06.pdb
