@@ -1,0 +1,28 @@
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\Demo09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\Demo09.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\Demo09.AssemblyInfo.cs
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\Demo09.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\bin\Debug\net8.0\Demo09.exe
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\bin\Debug\net8.0\Demo09.deps.json
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\bin\Debug\net8.0\Demo09.runtimeconfig.json
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\bin\Debug\net8.0\Demo09.dll
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\bin\Debug\net8.0\Demo09.pdb
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\Demo09.dll
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\refint\Demo09.dll
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\Demo09.pdb
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\Demo09.genruntimeconfig.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo09\obj\Debug\net8.0\ref\Demo09.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\bin\Debug\net8.0\Demo09.exe
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\bin\Debug\net8.0\Demo09.deps.json
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\bin\Debug\net8.0\Demo09.runtimeconfig.json
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\bin\Debug\net8.0\Demo09.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\bin\Debug\net8.0\Demo09.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\Demo09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\Demo09.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\Demo09.AssemblyInfo.cs
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\Demo09.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\Demo09.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\refint\Demo09.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\Demo09.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\Demo09.genruntimeconfig.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo09\obj\Debug\net8.0\ref\Demo09.dll
