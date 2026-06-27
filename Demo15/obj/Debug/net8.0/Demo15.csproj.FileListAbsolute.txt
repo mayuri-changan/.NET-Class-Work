@@ -1,0 +1,36 @@
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\bin\Debug\net8.0\Demo15.exe
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\bin\Debug\net8.0\Demo15.deps.json
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\bin\Debug\net8.0\Demo15.runtimeconfig.json
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\bin\Debug\net8.0\Demo15.dll
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\bin\Debug\net8.0\Demo15.pdb
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\bin\Debug\net8.0\Demo14.dll
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\bin\Debug\net8.0\Demo14.pdb
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.csproj.AssemblyReference.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.AssemblyInfo.cs
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.csproj.Up2Date
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.dll
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\refint\Demo15.dll
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.pdb
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\Demo15.genruntimeconfig.cache
+C:\Users\mayur\Desktop\.net project\CSharp\Demo15\obj\Debug\net8.0\ref\Demo15.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\bin\Debug\net8.0\Demo15.exe
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\bin\Debug\net8.0\Demo15.deps.json
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\bin\Debug\net8.0\Demo15.runtimeconfig.json
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\bin\Debug\net8.0\Demo15.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\bin\Debug\net8.0\Demo15.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\bin\Debug\net8.0\Demo14.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\bin\Debug\net8.0\Demo14.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.csproj.AssemblyReference.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.AssemblyInfo.cs
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.csproj.Up2Date
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\refint\Demo15.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\Demo15.genruntimeconfig.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo15\obj\Debug\net8.0\ref\Demo15.dll
