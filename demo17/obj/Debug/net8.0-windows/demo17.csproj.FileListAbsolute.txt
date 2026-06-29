@@ -1,0 +1,17 @@
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\bin\Debug\net8.0-windows\demo17.exe
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\bin\Debug\net8.0-windows\demo17.deps.json
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\bin\Debug\net8.0-windows\demo17.runtimeconfig.json
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\bin\Debug\net8.0-windows\demo17.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\bin\Debug\net8.0-windows\demo17.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.Form1.resources
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.Properties.Resources.resources
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.csproj.GenerateResource.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.AssemblyInfo.cs
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\refint\demo17.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\demo17.genruntimeconfig.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\demo17\obj\Debug\net8.0-windows\ref\demo17.dll
