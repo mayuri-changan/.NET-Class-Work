@@ -1,0 +1,14 @@
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\bin\Debug\net8.0\Demo25.exe
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\bin\Debug\net8.0\Demo25.deps.json
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\bin\Debug\net8.0\Demo25.runtimeconfig.json
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\bin\Debug\net8.0\Demo25.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\bin\Debug\net8.0\Demo25.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\Demo25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\Demo25.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\Demo25.AssemblyInfo.cs
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\Demo25.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\Demo25.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\refint\Demo25.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\Demo25.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\Demo25.genruntimeconfig.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo25\obj\Debug\net8.0\ref\Demo25.dll
