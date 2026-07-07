@@ -1,0 +1,11 @@
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\bin\Debug\net8.0\Demo36.deps.json
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\bin\Debug\net8.0\Demo36.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\bin\Debug\net8.0\Demo36.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\Demo36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\Demo36.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\Demo36.AssemblyInfo.cs
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\Demo36.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\Demo36.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\refint\Demo36.dll
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\Demo36.pdb
+C:\Users\mayur\Desktop\.NET\CSharp1\Demo36\obj\Debug\net8.0\ref\Demo36.dll
