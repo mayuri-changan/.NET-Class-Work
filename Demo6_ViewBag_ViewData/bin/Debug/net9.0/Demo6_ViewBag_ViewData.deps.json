@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Demo6_ViewBag_ViewData/1.0.0": {
+        "runtime": {
+          "Demo6_ViewBag_ViewData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo6_ViewBag_ViewData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
