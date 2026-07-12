@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Demo7_LayoutPages/1.0.0": {
+        "runtime": {
+          "Demo7_LayoutPages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo7_LayoutPages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
