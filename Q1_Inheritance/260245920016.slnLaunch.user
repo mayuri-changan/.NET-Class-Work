@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\bin\Debug\net8.0\Q1_Inheritance.exe
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\bin\Debug\net8.0\Q1_Inheritance.deps.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\bin\Debug\net8.0\Q1_Inheritance.runtimeconfig.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\bin\Debug\net8.0\Q1_Inheritance.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\bin\Debug\net8.0\Q1_Inheritance.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\Q1_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\Q1_Inheritance.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\Q1_Inheritance.AssemblyInfo.cs
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\Q1_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\Q1_Inheritance.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\refint\Q1_Inheritance.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\Q1_Inheritance.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\Q1_Inheritance.genruntimeconfig.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q1\obj\Debug\net8.0\ref\Q1_Inheritance.dll

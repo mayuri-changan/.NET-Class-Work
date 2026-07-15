@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\q8_reactfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/IETDb/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Migrations\\20260710192125_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE463AAF-BF60-45D4-9C4B-04FC26AFEC3F}|..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj|c:\\users\\mayur\\desktop\\self_learning_all\\ms.net\\q8_reactfrontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q8_ReactFrontEnd",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Q8_ReactFrontEnd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-10T18:53:47.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/IETDb/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-07-10T19:22:03.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260710192125_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Migrations\\20260710192125_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Migrations\\20260710192125_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Migrations\\20260710192125_InitialCreate.cs",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Migrations\\20260710192125_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:21:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T18:50:42.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:09:37.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T18:38:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T18:40:24.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Program.cs",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T18:40:48.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\appsettings.json",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T18:42:48.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T18:58:35.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Q8_ReactFrontEnd\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\SELF_LEARNING_ALL\\MS.NET\\Q8_ReactFrontEnd\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\Q8_ReactFrontEnd\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T18:36:35.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
