@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\WebApplication_Trial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EDF6A6-7939-459B-AC58-FC7FE5E9BA07}|..\\P2\\P2.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\controllers\\empscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\p1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EDF6A6-7939-459B-AC58-FC7FE5E9BA07}|..\\P2\\P2.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p2\\models\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EDF6A6-7939-459B-AC58-FC7FE5E9BA07}|..\\P2\\P2.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p2\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EDF6A6-7939-459B-AC58-FC7FE5E9BA07}|..\\P2\\P2.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p2\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EDF6A6-7939-459B-AC58-FC7FE5E9BA07}|..\\P2\\P2.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\emp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\emp\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\emp\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\emp\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\emp\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8122D6-9A32-4C09-B3CC-E092CEA2F278}|..\\P1\\P1.csproj|c:\\users\\mayur\\desktop\\.net\\.net_mvc_webserver\\p1\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\P2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\P2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T17:07:21.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "valuesController.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Controllers\\valuesController.cs",
+              "RelativeDocumentMoniker": "..\\P2\\Controllers\\valuesController.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Controllers\\valuesController.cs",
+              "RelativeToolTip": "..\\P2\\Controllers\\valuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T17:06:36.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P1.csproj",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\P1.csproj",
+              "RelativeDocumentMoniker": "..\\P1\\P1.csproj",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\P1.csproj",
+              "RelativeToolTip": "..\\P1\\P1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-01T16:45:24.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Emp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Index.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Emp\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T16:56:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\P1\\Program.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Program.cs",
+              "RelativeToolTip": "..\\P1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:38:37.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\P1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\P1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:31:06.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\P2\\Program.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Program.cs",
+              "RelativeToolTip": "..\\P2\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T17:19:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\P1\\appsettings.json",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\appsettings.json",
+              "RelativeToolTip": "..\\P1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-01T17:27:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "..\\P2\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Models\\Emp.cs",
+              "RelativeToolTip": "..\\P2\\Models\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T17:14:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Models\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "..\\P2\\Models\\EmpDbContext.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P2\\Models\\EmpDbContext.cs",
+              "RelativeToolTip": "..\\P2\\Models\\EmpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T17:16:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpsController.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Controllers\\EmpsController.cs",
+              "RelativeDocumentMoniker": "..\\P1\\Controllers\\EmpsController.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Controllers\\EmpsController.cs",
+              "RelativeToolTip": "..\\P1\\Controllers\\EmpsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T17:24:49.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "..\\P1\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "..\\P1\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:33:37.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Models\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "..\\P1\\Models\\EmpDbContext.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Models\\EmpDbContext.cs",
+              "RelativeToolTip": "..\\P1\\Models\\EmpDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:34:33.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Emp\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Edit.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Emp\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T16:56:37.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Emp\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Details.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Emp\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T16:56:34.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Emp\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Delete.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Emp\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T16:56:32.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Emp\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Emp\\Create.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Emp\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T16:56:30.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\P1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\P1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T16:54:26.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Models\\Emp.cs",
+              "RelativeDocumentMoniker": "..\\P1\\Models\\Emp.cs",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Models\\Emp.cs",
+              "RelativeToolTip": "..\\P1\\Models\\Emp.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:34:57.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T07:36:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T07:35:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T07:36:10.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\P1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mayur\\Desktop\\.NET\\.NET_MVC_WebServer\\P1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "..\\P1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T07:35:41.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
