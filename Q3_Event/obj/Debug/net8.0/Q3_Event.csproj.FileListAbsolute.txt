@@ -1,0 +1,14 @@
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\Q3_Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\Q3_Event.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\Q3_Event.AssemblyInfo.cs
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\Q3_Event.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\bin\Debug\net8.0\Q3_Event.exe
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\bin\Debug\net8.0\Q3_Event.deps.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\bin\Debug\net8.0\Q3_Event.runtimeconfig.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\bin\Debug\net8.0\Q3_Event.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\bin\Debug\net8.0\Q3_Event.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\Q3_Event.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\refint\Q3_Event.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\Q3_Event.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\Q3_Event.genruntimeconfig.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_Event\obj\Debug\net8.0\ref\Q3_Event.dll
