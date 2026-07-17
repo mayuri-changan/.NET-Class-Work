@@ -1,0 +1,14 @@
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\bin\Debug\net8.0\Q3_CustomException.exe
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\bin\Debug\net8.0\Q3_CustomException.deps.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\bin\Debug\net8.0\Q3_CustomException.runtimeconfig.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\bin\Debug\net8.0\Q3_CustomException.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\bin\Debug\net8.0\Q3_CustomException.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\Q3_CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\Q3_CustomException.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\Q3_CustomException.AssemblyInfo.cs
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\Q3_CustomException.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\Q3_CustomException.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\refint\Q3_CustomException.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\Q3_CustomException.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\Q3_CustomException.genruntimeconfig.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_CustomException\obj\Debug\net8.0\ref\Q3_CustomException.dll
