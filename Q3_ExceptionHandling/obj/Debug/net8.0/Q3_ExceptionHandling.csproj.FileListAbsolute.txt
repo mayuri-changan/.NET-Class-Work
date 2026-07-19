@@ -1,0 +1,14 @@
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\bin\Debug\net8.0\Q3_ExceptionHandling.exe
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\bin\Debug\net8.0\Q3_ExceptionHandling.deps.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\bin\Debug\net8.0\Q3_ExceptionHandling.runtimeconfig.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\bin\Debug\net8.0\Q3_ExceptionHandling.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\bin\Debug\net8.0\Q3_ExceptionHandling.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\Q3_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\Q3_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\Q3_ExceptionHandling.AssemblyInfo.cs
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\Q3_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\Q3_ExceptionHandling.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\refint\Q3_ExceptionHandling.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\Q3_ExceptionHandling.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\Q3_ExceptionHandling.genruntimeconfig.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q3_ExceptionHandling\obj\Debug\net8.0\ref\Q3_ExceptionHandling.dll
