@@ -1,0 +1,14 @@
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\bin\Debug\net8.0\Q5_101LINQQueries.exe
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\bin\Debug\net8.0\Q5_101LINQQueries.deps.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\bin\Debug\net8.0\Q5_101LINQQueries.runtimeconfig.json
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\bin\Debug\net8.0\Q5_101LINQQueries.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\bin\Debug\net8.0\Q5_101LINQQueries.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\Q5_101LINQQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\Q5_101LINQQueries.AssemblyInfoInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\Q5_101LINQQueries.AssemblyInfo.cs
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\Q5_101LINQQueries.csproj.CoreCompileInputs.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\Q5_101LINQQueries.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\refint\Q5_101LINQQueries.dll
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\Q5_101LINQQueries.pdb
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\Q5_101LINQQueries.genruntimeconfig.cache
+C:\Users\mayur\Desktop\SELF_LEARNING_ALL\MS.NET\Q5_101LINQQueries\obj\Debug\net8.0\ref\Q5_101LINQQueries.dll
