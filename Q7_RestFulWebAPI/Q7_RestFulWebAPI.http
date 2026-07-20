@@ -1,0 +1,6 @@
+@Q7_RestFulWebAPI_HostAddress = http://localhost:5023
+
+GET {{Q7_RestFulWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
